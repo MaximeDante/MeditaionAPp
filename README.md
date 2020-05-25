@@ -1,2 +1,2 @@
 This is a simple meditation app developed using JavaScript.
-The app allows users to develope their concentration power in meditation. The user can meditate and relax by enjoying the peaceful sound of a cloudy and sunny day. The user can decide and adjust the time using the app. 
+The app allows users to develop their concentration power in meditation. The user can meditate and relax by enjoying the peaceful sound of a cloudy and sunny day. The user can decide and adjust the time using the app. 
